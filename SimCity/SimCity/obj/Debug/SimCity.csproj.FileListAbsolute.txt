@@ -1,0 +1,10 @@
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.csprojAssemblyReference.cache
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.Properties.Resources.resources
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.Trevor_Form.resources
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.csproj.GenerateResource.cache
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.csproj.CoreCompileInputs.cache
+C:\Users\trevo\source\repos\SimCity\SimCity\bin\Debug\SimCity.exe.config
+C:\Users\trevo\source\repos\SimCity\SimCity\bin\Debug\SimCity.exe
+C:\Users\trevo\source\repos\SimCity\SimCity\bin\Debug\SimCity.pdb
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.exe
+C:\Users\trevo\source\repos\SimCity\SimCity\obj\Debug\SimCity.pdb
